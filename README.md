@@ -1,7 +1,7 @@
 # burger shop server
  Academic project finished
 
-<img src="./Assets/devclub comunidade.png" alt="page-image" width="300px">
+<img src="./Assets/devclub comunidade.png" alt="page-image" width="600px">
 
 > Result of the finished project. This project simulates a burger shop server.
 
