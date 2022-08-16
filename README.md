@@ -12,10 +12,10 @@ The project was fully completed and the following resources were used:
 - [x] JavaScript
 - [x] NODE.js
 - [x] Insominia (for test)
+- [x] Npm
+- [x] Express
 
 ## 🤝 Collaborators
-
-Thanks:
 
 <table>
   <tr>
